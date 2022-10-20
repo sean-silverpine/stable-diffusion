@@ -1,6 +1,4 @@
 numpy==1.23.1
---pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
-
 albumentations==0.4.6
 diffusers
 opencv-python==4.6.0.66
